@@ -22,7 +22,7 @@ class Server {
         String line = in.readLine(); 
 
         out.println(gui.getTemp()); // get temp from derver
-System.out.println(gui.getTemp()); 
+        System.out.println(gui.getTemp()); 
         return line; 
 
     }
