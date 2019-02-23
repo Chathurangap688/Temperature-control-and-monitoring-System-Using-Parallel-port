@@ -8,10 +8,6 @@
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- *
- * @author CHATHURANGA
- */
 public final class mainFrame extends javax.swing.JFrame {
 
     /**
