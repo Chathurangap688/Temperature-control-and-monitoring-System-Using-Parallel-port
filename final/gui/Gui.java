@@ -7,10 +7,7 @@
 
 import static java.lang.Thread.sleep;
 
-/**
- *
- * @author CHATHURANGA
- */
+
 public class Gui {
 
     /**
