@@ -2,8 +2,8 @@
 acadamic project CO326
 
 
-                first run the server .c
+                first run the serial.py
 then run main file of gui 
 
 
-                MyGui.java
+                Gui.java
