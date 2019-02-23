@@ -10,3 +10,4 @@ then run main file of gui and java server in folder gui
 
                 Gui.java
 If you cant run this without errors , you may use netbeansIDE for run it
+  -> create new java project in netbeans and coppy gui folder to '.../project/src' in netbeans
