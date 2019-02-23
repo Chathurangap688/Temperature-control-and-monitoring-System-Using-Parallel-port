@@ -9,10 +9,6 @@ import static gui.State.outs;
 import java.awt.Frame;
 import sun.misc.Signal;
 
-/**
- *
- * @author CHATHURANGA
- */
 
 public class State {
     public static int current_state = 0;
