@@ -6,6 +6,8 @@ acadamic project CO326
   -> controll 8 digital out put accoding to analog input value
   
    -> this output can handael manually or automatically
+   
+   -> If you wont to desing hardwear, open hardwear folder, you can downlode desing file and desing the hardwear
 
 # Please open the 'final' folder for final project 
 
