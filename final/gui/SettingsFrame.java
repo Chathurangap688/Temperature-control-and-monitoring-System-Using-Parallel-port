@@ -9,10 +9,7 @@ import java.util.Hashtable;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 
-/**
- *
- * @author CHATHURANGA
- */
+
 public class SettingsFrame extends javax.swing.JFrame {
 
     /**
