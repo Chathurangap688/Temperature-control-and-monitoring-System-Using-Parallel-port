@@ -1,6 +1,5 @@
 /* 
  * File:   uart.h
- * Author: CHATHURANGA
  *
  * Created on January 17, 2019, 6:42 PM
  */
