@@ -2,7 +2,9 @@
 acadamic project CO326
 ## we update this to generalize realtime analog in and digital out project
   -> read 8 analog valuse and shw its in GUI via serial commiunication
+  
   -> controll 8 digital out put accoding to analog input value
+  
       -> this output can handael manually or automatically
 
 # Please open the 'final' folder for final project 
