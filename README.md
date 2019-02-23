@@ -5,7 +5,7 @@ acadamic project CO326
   
   -> controll 8 digital out put accoding to analog input value
   
-      -> this output can handael manually or automatically
+   -> this output can handael manually or automatically
 
 # Please open the 'final' folder for final project 
 
