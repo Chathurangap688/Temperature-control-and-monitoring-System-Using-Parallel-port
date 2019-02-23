@@ -13,10 +13,7 @@ import java.net.Socket;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- *
- * @author CHATHURANGA
- */
+
 public class Server extends Thread{
 //public String inputData()throws UnknownHostException, IOException {
 //        Gui gui = new Gui(); 
