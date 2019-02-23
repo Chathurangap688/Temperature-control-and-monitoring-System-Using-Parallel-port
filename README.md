@@ -9,3 +9,4 @@ then run main file of gui and java server in folder gui
 
 
                 Gui.java
+If you cant run this without errors , you may use netbeansIDE for run it
